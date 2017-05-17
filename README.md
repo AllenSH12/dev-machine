@@ -9,6 +9,6 @@ Software and config settings for development machine
 - [ ] [Paw](https://paw.cloud/)
 - [ ] [Reflector](http://www.airsquirrels.com/reflector/download/)
 - [ ] [SizeUp](http://www.irradiatedsoftware.com/sizeup/)
-- [ ] [Tower]((https://www.git-tower.com/mac/)
+- [ ] [Tower](https://www.git-tower.com/mac/)
 - [ ] [Vagrant](https://www.vagrantup.com/downloads.html)
 - [ ] [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
